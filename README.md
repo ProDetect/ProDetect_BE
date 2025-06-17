@@ -1,3 +1,4 @@
-# Solar app template
+# ProDetect Backend Services with APIs
 
-Monorepo template for Solar apps running on microVMs.
+
+Work in progress
